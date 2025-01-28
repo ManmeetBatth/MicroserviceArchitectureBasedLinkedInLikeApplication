@@ -48,8 +48,7 @@
   <h2>Getting Started</h2>
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone https://github.com/your-username/linkedin-clone.git
-cd linkedin-clone</code></pre>
+      <pre><code>git clone https://github.com/ManmeetBatth/MicroserviceArchitectureBasedLinkedInLikeApplication.git</code></pre>
     </li>
     <li>Build Docker images:
       <pre><code>docker-compose build</code></pre>
